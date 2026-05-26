@@ -21,5 +21,7 @@ Conclusion for the reader: Do you see it now? The direct relationship between th
 Does this picture clarify the abstract 4D Riemannian geometry by reducing it to intuitive 3D geometry plus a frequency distribution over space?
 
 Zou, Z. K. (2025). previous version MITC model draft Updating From February 2025 :https://doi.org/10.5281/zenodo.14788393 
+
 Multiplicative-Entropy-Driven Invariant-Topology Two-Layer Chiral-Space (MITC)
+
 MITC model's latest version:https://doi.org/10.5281/zenodo.20370578
