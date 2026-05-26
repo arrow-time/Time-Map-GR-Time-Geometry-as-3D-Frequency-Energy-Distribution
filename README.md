@@ -1,6 +1,6 @@
 # Time Map: GR Time Geometry as 3D Frequency Energy Distribution
 
-# GR time geometry = 3D frequency map = energy distribution  in MITC model
+### GR time geometry = 3D frequency map = energy distribution  in MITC model
 
 The 4D formulation of General Relativity is abstract, while human cognition is inherently 3D. This makes it difficult to intuitively grasp the geometric time curvature in GR.
 
